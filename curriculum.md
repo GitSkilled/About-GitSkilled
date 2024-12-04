@@ -15,6 +15,6 @@ We offer a variety of learning paths to support developers at all levels. Our cu
 - [**Inclusive Open Source**](#) ( COMING SOON ) – Learn how to create and contribute to open-source projects that are welcoming and inclusive.
 
 ## Collaborate with Us to Empower Socially Conscious Developers
-Are you passionate about creating or sharing content to support the next generation of socially conscious developers? Visit our Partners Page or connect with our team to get involved and make an impact!
+Are you passionate about creating or sharing content to support the next generation of developers? Visit our [Partners](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/partners.md) page or [connect with our team[() to get involved and make an impact!
 
 
