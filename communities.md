@@ -62,10 +62,10 @@ This community is all about creating a safe and welcoming space for **underrepre
 
 ## Our global impact
 GitHub All In is not specific to one city, country, or region. We are set to empower the future generation of developers globally. Our programming is built to serve all corners of the world, regardless of location. Check out the links below to learn more about our current communities are:
-- [All In North America](https://github.com/All-In-Open-Source-Project/About-All-In/all-in-north-america.md)
-- [All In Europe](https://github.com/All-In-Open-Source-Project/About-All-In/all-in-europe.md)
-- [All In Africa](https://github.com/All-In-Open-Source-Project/About-All-In/all-in-africa.md)
-- [All In Latin America and Caribbean](https://github.com/All-In-Open-Source-Project/About-All-In/all-in-latac.md)
+- [All In North America](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-north-america.md)
+- [All In Europe](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-europe.md)
+- [All In Africa](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-africa.md)
+- [All In Latin America and Caribbean](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-latam.md)
   
 ### We can’t wait to welcome you!
 
