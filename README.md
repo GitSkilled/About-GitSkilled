@@ -1,14 +1,15 @@
 # About-All-In
 
-This is a collection of resources relating to GitHub All In curriculum, communities, partners and DEI resources maintained by [GitHub Social Impact](link) under the [Skilling, Equity and Community pillar](link) at GitHub to enable and empower socially conscious open source developers.
+This resource collection, curated by [GitHub Social Impact](link) under the [Skilling, Equity and Community pillar](link), supports socially conscious open source developers with curriculum, communities, partners, and DEI materials.
 
-## What is this Repo?
-This repository is where we discuss and coordinate the GitHub All In open source efforts to establish pathways to guide underrepresented learners into the GitHub All In Alumni program, an equity-driven global community, to ensure broader and more inclusive participation in the digital economy. The four-point plan is as follows:
+## About This Repository
+This repository is dedicated to discussing and coordinating GitHub All In's open source initiatives. Our goal is to create pathways for underrepresented learners to join the GitHub All In Alumni program—a global, equity-driven community fostering inclusive participation in the digital economy.
 
-1. Increase the number of developers on GitHub through an openly accessible curriculum
-2. Increase the number of marginalized and socially conscious developers on GitHub through large-scale skilling partnerships in targeted countries
-3. Increase the number of marginalized and socially conscious developers on GitHub through local skilling partnerships in targeted countries
-4. Drive positive and lasting contributions and close the digital divide through community building
+Our Four-Point Plan:
+Expand GitHub’s developer base through openly accessible curricula.
+Grow the presence of marginalized and socially conscious developers via large-scale skilling partnerships in target countries.
+Strengthen local skilling efforts to support marginalized and socially conscious developers in target regions.
+Foster community building to drive impactful contributions and help close the digital divide.
 
 
 ### Primary GitHub All In Resources
