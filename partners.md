@@ -5,10 +5,6 @@
 
 The All In Open Source Community is dedicated to providing educational, professional development, and personal growth opportunities to underrepresented and marginalized communities seeking careers in open source and tech. Our community thrives on support from our valued partners, and this page outlines how organizations can engage with us to make a meaningful impact.
 
-
-IMAGE
-
-
 Become a partner to shape the future of open source by providing learners with critical resources, career opportunities, and the tools they need to thrive. Here’s how you can make a meaningful contribution to this project:
 
 # 1. Sponsor: Invest in talent, empower the future
@@ -36,7 +32,7 @@ Your donations will help us expand our reach, provide resources for underserved 
 
 To make a donation to **GitHub All In**, simply follow the link below to our donation platform, where you can choose your contribution amount and preferred donation frequency.
 
-[Donate to GitHub All In](#)
+Coming soon: Donate to GitHub All In through GitHub Sponsors
 
 We are deeply grateful for your support in advancing our mission to upskill the next generation of developers and create a more inclusive tech industry. Thank you for joining us in this journey!
 
@@ -80,7 +76,7 @@ Our goal is to collaborate with partners who share our passion for fostering inc
 
 ## Target Regions:
 
-We are particularly focused on reaching learners in **LatAm**, **North America**, and **Africa** as part of the **GitHub All In** initiative. These regions represent high-growth potential and areas where we can address local skills gaps while supporting long-term tech and economic development.
+We are particularly focused on reaching learners in **Africa**, **Europe**, **LatAm**, and **North America** as part of the **GitHub All In** initiative. These regions represent high-growth potential and areas where we can address local skills gaps while supporting long-term tech and economic development.
 
 ## How You Can Get Involved:
 
