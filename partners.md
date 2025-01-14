@@ -120,7 +120,7 @@ GitHub All In is proud to offer the following benefits to all our partners:
 # Next Steps: Get Involved and Help Us Move Forward!
 Thank you for learning about how to support our project!
 
-Please take a moment to fill out this form so we can connect and provide next steps. We look forward to working with you!
+Please take a moment to [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfEM7HPiLaJmbigHTAkvHbDmmFxNstCWVeQ866c0rj2WfUxQQ/viewform) so we can connect and provide next steps. We look forward to working with you!
 
 
 
