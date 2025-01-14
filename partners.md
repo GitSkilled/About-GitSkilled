@@ -3,9 +3,15 @@
 ## Empowering the next generation of open source talent
 
 
-The All In Open Source Community is dedicated to providing educational, professional development, and personal growth opportunities to underrepresented and marginalized communities seeking careers in open source and tech. Our community thrives on support from our valued partners, and this page outlines how organizations can engage with us to make a meaningful impact.
+The GitHub All In Open Source Community is dedicated to providing educational, professional development, and personal growth opportunities to underrepresented and marginalized communities seeking careers in open source and tech. Our community thrives on support from our valued partners, and this page outlines how organizations can engage with us to make a meaningful impact. There are three types of partnerships available:
 
-Become a partner to shape the future of open source by providing learners with critical resources, career opportunities, and the tools they need to thrive. Here’s how you can make a meaningful contribution to this project:
+   - [Sponsorship](https://github.com/All-In-Open-Source-Project/About-All-In/edit/main/partners.md#1-sponsor-invest-in-talent-empower-the-future)
+   - [Community](https://github.com/All-In-Open-Source-Project/About-All-In/edit/main/partners.md#2-community-in-kind-donations--services)
+   - [Education](https://github.com/All-In-Open-Source-Project/About-All-In/edit/main/partners.md#3-education-share-curriculum--advise-on-future-topics)
+
+Become a partner to shape the future of open source by providing learners with critical resources, career opportunities, and the tools they need to thrive. Aside from supporting the GitHub All In initiative to further their mission, partners will have access to the benefits in the [Partner Pack](https://github.com/All-In-Open-Source-Project/About-All-In/edit/main/partners.md#partner-pack) listed below.
+
+Here’s how you can make a meaningful contribution to this project:
 
 # 1. Sponsor: Invest in talent, empower the future
 
@@ -36,7 +42,6 @@ Coming soon: Donate to GitHub All In through GitHub Sponsors
 
 We are deeply grateful for your support in advancing our mission to upskill the next generation of developers and create a more inclusive tech industry. Thank you for joining us in this journey!
 
----
 Together, we can build a brighter future for developers everywhere.
 
 
@@ -86,8 +91,36 @@ Let’s collaborate to create pathways for the next generation of developers and
 
 We look forward to partnering with you on this exciting journey!
 
+# Partner Pack:
+
+GitHub All In is proud to offer the following benefits to all our partners:
+
+1. **Promotion for your organization:** 
+ 
+   - Your logo will be displayed on the [GitHub All In organization](https://github.com/All-In-Open-Source-Project)
+   - Your organization will be featured as a GitHub All In Supporter in a social media or blog post
+   - Our partnership will be announced to the growing All In Communities across all regions
+   - We will share your upcoming relevant news with our growing All In Communities via our newsletters
+
+2. **Workshop Engagement:**
+
+   - You will be able to host relevant and appropriate educational workshops for our All In Communities
+
+3. **Visibility in For Good First Issue:**
+ 
+   - If your organization's mission aligns with one or more of the UN SDGs, and you have open source projects that are open to contributors, we will connect with you 1:1 to facilitate your inclusion in the [For Good First Issue](https://forgoodfirstissue.github.com/) project.
+
+4. **Access to GitHub Experts (for Educational Partners):**
+
+   - If your learners are in the process of completing any of the courses in the GitHub All In project, they will have access to a GitHub Expert to help them with questions or issues via a monthly GitHub All In Office Hours. This open format session will only be open to learners of educational partners.  
+
+
+ 
+
 # Next Steps: Get Involved and Help Us Move Forward!
 Thank you for learning about how to support our project!
 
 Please take a moment to fill out this form so we can connect and provide next steps. We look forward to working with you!
+
+
 
