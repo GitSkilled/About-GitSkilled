@@ -105,6 +105,7 @@ GitHub All In is proud to offer the following benefits to all our partners:
 2. **Workshop Engagement:**
 
    - You will be able to host relevant and appropriate educational workshops for our All In Communities
+   - You will be able to host a "Meet and Greet" networking event for our All In Communities
 
 3. **Visibility in For Good First Issue:**
  
