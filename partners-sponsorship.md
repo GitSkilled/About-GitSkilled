@@ -1,4 +1,4 @@
-Sponsorship: Invest in talent, empower the future
+# Sponsorship: Invest in talent, empower the future
 
 The **GitHub All In** initiative is driven by the belief that everyone should have access to the skills and resources needed to succeed in the tech industry. As we work to upskill 1 million developers over the next three years, we rely on the generosity of donors, partners, and individuals who share our vision for creating inclusive, diverse, and future-ready tech communities.
 
