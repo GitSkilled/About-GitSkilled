@@ -5,9 +5,9 @@
 
 The GitHub All In Open Source Community is dedicated to providing educational, professional development, and personal growth opportunities to underrepresented and marginalized communities seeking careers in open source and tech. Our community thrives on support from our valued partners, and this page outlines how organizations can engage with us to make a meaningful impact. There are three types of partnerships available:
 
-   - [Sponsorship](https://github.com/All-In-Open-Source-Project/About-All-In/edit/main/partners.md#1-sponsor-invest-in-talent-empower-the-future)
-   - [Community](https://github.com/All-In-Open-Source-Project/About-All-In/edit/main/partners.md#2-community-in-kind-donations--services)
-   - [Education](https://github.com/All-In-Open-Source-Project/About-All-In/edit/main/partners.md#3-education-share-curriculum--advise-on-future-topics)
+   - [Sponsorship](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/partners-sponsorship.md)
+   - [Community](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/partners-community.md)
+   - [Education](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/partners-education.md)
 
 Become a partner to shape the future of open source by providing learners with critical resources, career opportunities, and the tools they need to thrive. Aside from supporting the GitHub All In initiative to further their mission, partners will have access to the benefits in the Partner Pack as listed in the above documents.
 
