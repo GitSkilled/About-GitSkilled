@@ -10,7 +10,7 @@ Through the **GitHub All In** initiative, we aim to provide a broad range of lea
 
 - **GitHub Basics** – Offering foundational knowledge of GitHub, version control, and collaboration in open-source projects.
 - **GitHub Copilot** – Enabling developers to boost productivity and innovation by learning how to use GitHub Copilot effectively.
-- **Ethical AI** – Providing critical education on building and using AI technologies responsibly.
+- **Responsible AI** – Providing critical education on building and using AI technologies responsibly.
 
 Our goal is to collaborate with partners who share our passion for fostering inclusive, diverse, and sustainable developer communities. Whether you're an educational institution, nonprofit organization, or a company with a workforce development program, there are multiple ways to get involved with **GitHub All In**.
 
