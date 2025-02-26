@@ -8,7 +8,7 @@
 ## Empowering developers globally 🖥️
 **We believe everyone has untapped talent waiting to be unlocked.**
 
-As we face complex challenges—from climate change to economic inequality—we mustit’s ensure that diverse minds are at the forefront of tackling these critical issues. We can harness diverse talents to drive innovative solutions and positive change by providing the right resources and opportunities. Recognizing and nurturing potential in every corner of the globe enriches the tech community and creates a brighter, more equitable future for all. Together, we can cultivate a world where everyone has the chance to thrive, regardless of their background.
+As we navigate complex challenges—from climate change to economic inequality—it’s essential to ensure that diverse minds are at the forefront of driving solutions. By providing the right resources and opportunities, we can harness a broad range of talents to foster innovation and positive change. Recognizing and nurturing potential from every corner of the globe not only strengthens the tech community but also paves the way for a more equitable and inclusive future. Together, we can create a world where everyone has the opportunity to thrive, regardless of their background.
 
 ### Here’s why we’re going big:  
 * #### Tackling global talent shortages
