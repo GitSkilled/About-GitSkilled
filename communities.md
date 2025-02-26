@@ -52,7 +52,7 @@ Completing the [GitHub Foundations Learning Path](https://learn.microsoft.com/en
 
 **5. Industry recognition:** Showcase your contributions to open source, earn credibility, and establish yourself as a thought leader in the tech community. Share your open source projects and build your own community of contributors. 
 
-This community is about creating a safe and welcoming space for **underrepresented and marginalized folks in tech.** It’s a place where you can truly belong, connect, and fuel your passion for development alongside others who understand your journey. 
+This community is about creating a safe and welcoming space for **nontraditional learners** It’s a place where you can truly belong, connect, and fuel your passion for development alongside others who understand your journey. 
 
 
 ## Our global impact 🚀
