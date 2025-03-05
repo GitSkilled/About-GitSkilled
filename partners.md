@@ -1,15 +1,15 @@
-# Partner with GitHub All In
+# Partner with GitSkilled
 
 ## Empowering the next generation of open source talent
 
 
-The GitHub All In Open Source Community is dedicated to providing educational, professional development, and personal growth opportunities to underrepresented and marginalized communities seeking careers in open source and tech. Our community thrives on support from our valued partners, and this page outlines how organizations can engage with us to make a meaningful impact. There are three types of partnerships available:
+The GitSkilled Community is dedicated to providing educational, professional development, and personal growth opportunities to underrepresented and marginalized communities seeking careers in open source and tech. Our community thrives on support from our valued partners, and this page outlines how organizations can engage with us to make a meaningful impact. There are three types of partnerships available:
 
    - [Sponsorship](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/partners-sponsorship.md)
    - [Community](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/partners-community.md)
    - [Education](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/partners-education.md)
 
-Become a partner to shape the future of open source by providing learners with critical resources, career opportunities, and the tools they need to thrive. Aside from supporting the GitHub All In initiative to further their mission, partners will have access to the benefits in the Partner Pack as listed in the above documents.
+Become a partner to shape the future of open source by providing learners with critical resources, career opportunities, and the tools they need to thrive. Aside from supporting the GitSkilled initiative to further their mission, partners will have access to the benefits in the Partner Pack as listed in the above documents.
 
 
 
@@ -19,7 +19,7 @@ We are particularly focused on reaching learners in **Africa**, **Europe**, **La
 
 ## How You Can Get Involved:
 
-If you are interested in partnering with **GitHub All In** to scale skilling initiatives and provide life-changing learning opportunities, we would love to hear from you. Together, we can help empower developers, break down barriers to opportunity, and build an inclusive, thriving tech ecosystem.
+If you are interested in partnering with **GitSkilled** to scale skilling initiatives and provide life-changing learning opportunities, we would love to hear from you. Together, we can help empower developers, break down barriers to opportunity, and build an inclusive, thriving tech ecosystem.
 
 Let’s collaborate to create pathways for the next generation of developers and help shape a more equitable future for the tech industry.
 
