@@ -23,7 +23,7 @@ As we navigate complex challenges—from climate change to economic inequality�
 * #### Building inclusive tech
   More diverse voices in tech lead to products that work for everyone, reducing bias, promoting fairness, and improving accessibility.
 
-* #### Uplifting women and marginalized groups
+* #### Uplifting global communities 
   Tech skills open doors to leadership and financial independence, empowering entire communities.
 
 * #### Boosting global economies
@@ -56,7 +56,7 @@ This community is about creating a safe and welcoming space for **nontraditional
 
 
 ## Our global impact 🚀
-GitHub All In is not specific to one city, country, or region. We are set to empower the future generation of developers globally. Our programming is built to serve all corners of the world, regardless of location. Check out the links below to learn more about our current communities:
+GitSkilled is not specific to one city, country, or region. We are set to empower the future generation of developers globally. Our programming is built to serve all corners of the world, regardless of location. Check out the links below to learn more about our current communities:
 - [GitSkilled North America](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-north-america.md)
 - [GitSkilled Europe](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-europe.md)
 - [GitSkilled Africa](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-africa.md)
