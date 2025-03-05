@@ -60,6 +60,8 @@ In order to provide for the continued success of the GitSkilled program, we are 
  - a 1 year commitment, at which time we may both revisit the effectiveness of the partnership
  - a quarterly report on the number of students from your organization who have completed the GitHub Foundations curriculum
  - a commitment to sharing our success stories in combined media outlets
+ - a dedicated representative who will join our GitHub Education Partner Community so we can connect and keep your organization updated
+
  
 # Next Steps: Get Involved and Help Us Move Forward!
 
