@@ -21,7 +21,6 @@ Our goal is to collaborate with partners who share our passion for fostering inc
 - **Host Skilling Events:** Partner with us to organize hackathons, workshops, or webinars focused on GitHub technologies, GitHub Copilot, and Ethical AI to enhance your learners' skills.
 - **Translation & Localization:** Help us reach global communities by translating **GitHub All In** content into additional languages or adapting it for regional needs.
 
-
 # Partner Pack:
 
 GitHub All In is proud to offer the following benefits to all our Education Partners:
@@ -54,10 +53,14 @@ GitHub All In is proud to offer the following benefits to all our Education Part
 
    - If your learners are in the process of completing any of the courses in the GitHub All In project, they will have access to a GitHub Expert to help them with questions or issues via a monthly GitHub All In Office Hours. This open format session will only be open to learners of educational partners.  
 
+# Partner Expectations
 
+In order to provide for the continued success of the GitSkilled program, we are requesting the following assistance from our Education Partners:
 
+ - a 1 year commitment, at which time we may both revisit the effectiveness of the partnership
+ - a quarterly report on the number of students from your organization who have completed the GitHub Foundations curriculum
+ - a commitment to sharing our success stories in combined media outlets
  
-
 # Next Steps: Get Involved and Help Us Move Forward!
 
 Thank you for learning about how to support our project!
