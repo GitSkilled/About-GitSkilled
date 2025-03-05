@@ -1,14 +1,14 @@
 # About-GitSkilled <img src="https://avatars.githubusercontent.com/u/189777612?s=200&v=4" width="25" height="25" />
 
-This resource collection, curated by GitHub Social Impact under the Skilling, Equity and Community pillar, supports socially conscious open source developers with curriculum, communities, partners, and DEI materials.
+This resource collection, curated by GitHub Social Impact under the Skilling, Equity and Community pillar, supports socially conscious open source developers with curriculum, communities, partners, and educational materials.
 
 ## About This Repository
-This repository is dedicated to coordinating GitHub All In's open source initiatives. Our goal is to create pathways for underrepresented learners to join the GitHub All In Alumni program—a global, equity-driven community fostering inclusive participation in the digital economy.
+This repository supports GitSkilled's open source initiatives, creating pathways for nontraditional learners to join the GitSkilled Collective—a global community committed to inclusive participation in the digital economy.
 
 Our Four-Point Plan:
 1. Expand GitHub’s developer base through openly accessible curricula.
-2. Grow the presence of marginalized and socially conscious developers via large-scale skilling partnerships in target countries.
-3. Strengthen local skilling efforts to support marginalized and socially conscious developers in target regions.
+2. Grow the presence of nontraditional learners and socially conscious developers via large-scale skilling partnerships in target countries.
+3. Strengthen local skilling efforts to support nontraditional learners  and socially conscious developers in target regions.
 4. Foster community building to drive impactful contributions and help close the digital divide.
 
 
