@@ -3,7 +3,7 @@
 ## Unlock endless opportunities for growth and success
 
 
-**GitHub All In is committed to building strong, local communities** that empower our learners, providing tailored support and resources to help them thrive in their region.
+**GitSkilled is committed to building strong, local communities** that empower our learners, providing tailored support and resources to help them thrive in their region.
 
 ## Empowering developers globally 🖥️
 **We believe everyone has untapped talent waiting to be unlocked.**
@@ -34,13 +34,13 @@ As we navigate complex challenges—from climate change to economic inequality�
 
 
 
-## GitHub All In Alumni Program 🎓
+## GitSkilled Collective 🎓
 
 ### Our community is all about collaboration, sharing knowledge, and fueling each other’s passion for development. 
 
-Completing the [GitHub Foundations Learning Path](https://learn.microsoft.com/en-us/collections/w1nebonx2g64nw) gives you access to the **GitHub All In Community Developer Pack**. Dive in, level up your skills, and connect with a global network of innovators ready to make an impact in the exciting world of open source!
+Completing the [GitHub Foundations Learning Path](https://learn.microsoft.com/en-us/collections/w1nebonx2g64nw) gives you access to the **GitSkilled Developer Pack**. Dive in, level up your skills, and connect with a global network of innovators ready to make an impact in the exciting world of open source!
 
-### The GitHub All In Community Developer Pack Includes:
+### The GitSkilled Developer Pack Includes:
 
 **1. Free voucher for our GitHub Fundamentals Certification Exam:**  Getting GitHub certified is a resounding endorsement that validates your skills, credibility, trust, and knowledge of the technologies and developer tools that are used by more than 100 million developers worldwide.
 
@@ -57,10 +57,10 @@ This community is about creating a safe and welcoming space for **nontraditional
 
 ## Our global impact 🚀
 GitHub All In is not specific to one city, country, or region. We are set to empower the future generation of developers globally. Our programming is built to serve all corners of the world, regardless of location. Check out the links below to learn more about our current communities:
-- [All In North America](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-north-america.md)
-- [All In Europe](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-europe.md)
-- [All In Africa](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-africa.md)
-- [All In Latin America and the Caribbean](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-lac.md)
+- [GitSkilled North America](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-north-america.md)
+- [GitSkilled Europe](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-europe.md)
+- [GitSkilled Africa](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-africa.md)
+- [GitSkilled Latin America and the Caribbean](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-lac.md)
   
 ### We can’t wait to welcome you!
 
