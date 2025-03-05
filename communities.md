@@ -61,7 +61,6 @@ GitSkilled is not specific to one city, country, or region. We are set to empowe
 - [GitSkilled Europe](https://github.com/GitSkilled/About-GitSkilled/blob/main/gitskilled-europe.md)
 - [GitSkilled Africa](https://github.com/GitSkilled/About-GitSkilled/blob/main/gitskilled-africa.md)
 - [GitSkilled Latin America and Caribbean](https://github.com/GitSkilled/About-GitSkilled/blob/main/gitskilled-lac.md)
-- [GitSkilled Asia Pacific](coming FY26)
   
 ### We can’t wait to welcome you!
 
