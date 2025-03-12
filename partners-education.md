@@ -27,7 +27,7 @@ GitHub All In is proud to offer the following benefits to all our Education Part
 
 1. **Free Upgrade to a GitHub Team Account**
 
-  - You will receive a free Team upgrade for your team. To learn more about the benefits of the Team GitHub pricing plan, visit [https://github.com/pricing](https://github.com/pricing).
+  - You will receive a free 12-month Team upgrade for your team. To learn more about the benefits of the Team GitHub pricing plan, visit [https://github.com/pricing](https://github.com/pricing).
 
 2. **Access to a Global Community of Educators**
 
@@ -57,7 +57,7 @@ GitHub All In is proud to offer the following benefits to all our Education Part
 
 In order to provide for the continued success of the GitSkilled program, we are requesting the following assistance from our Education Partners:
 
- - a 1 year commitment, at which time we may both revisit the effectiveness of the partnership
+ - a 1-year commitment, at which time we may both revisit the effectiveness of the partnership
  - a quarterly report on the number of students from your organization who have completed the GitHub Foundations curriculum
  - a commitment to sharing our success stories in combined media outlets
  - a dedicated representative who will join our GitHub Education Partner Community so we can connect and keep your organization updated
