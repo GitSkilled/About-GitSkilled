@@ -16,6 +16,6 @@ Our Four-Point Plan:
 
 Here's an index to some helpful resources you'll find in this repo
 
-- [Curriculum](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/curriculum.md)📚  - Check out GitSkilled tailored learning pathways for both new contributors to open source and professional developers addressing essential skills and advanced technologies like AI and open source.
-- [Communities](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/communities.md) 🌐 - Our community is all about collaboration, sharing knowledge, and fueling each other's passion for development. We will be opening access to these communities beginning February 1, 2025.
-- [Partners](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/partners.md) 👥 - Become a partner to shape the future of open source by providing learners with critical resources, career opportunities, and the tools they need to thrive.
+- [Curriculum](https://github.com/GitSkilled/About-GitSkilled/blob/main/curriculum.md)📚  - Check out GitSkilled tailored learning pathways for both new contributors to open source and professional developers addressing essential skills and advanced technologies like AI and open source.
+- [Communities](https://github.com/GitSkilled/About-GitSkilled/blob/main/communities.md) 🌐 - Our community is all about collaboration, sharing knowledge, and fueling each other's passion for development. We will be opening access to these communities beginning February 1, 2025.
+- [Partners](https://github.com/GitSkilled/About-GitSkilled/blob/main/partners.md) 👥 - Become a partner to shape the future of open source by providing learners with critical resources, career opportunities, and the tools they need to thrive.
