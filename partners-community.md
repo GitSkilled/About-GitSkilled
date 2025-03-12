@@ -1,18 +1,22 @@
 
 
-# Community: In-kind donations & services
+# Community: In-kind donations & services 🌐
 
-Community partners may prefer to engage through in-kind donations, services, or offerings that provide learners with practical open source experience. By donating tools, hosting workshops, or offering mentoring services, you can help equip our students with the skills and resources they need to excel in their careers. Examples of in-kind donations include resume writing workshops, resume reviews and mock interviews, access to software tools for the **GitHub GitSkilled Community Developer Pack**, hosting career panels and technical interviews, and providing mentorship and peer support programs. 
+**Support Open Source Learners - contribute to our GitSkilled Developer Pack** through in-kind donations, workshops, or mentorship, equipping learners with real-world open-source experience. Become a Community Partner and help our GitSkilled community of learners develop the skills needed to become successful tech innovators and leaders.\
+## Why It Matters
+- **Supporting Socially Conscious Developers** – We empower talented individuals - both technical and nontechnical -  who lack access to well-resourced institutions.
+- **Building Open Source Careers** – Beyond education, we offer career development to help developers launch successful open-source careers.
+
 
 ## What Makes the GitHub GitSkilled Community Developer Pack Different?
 
 Through the **GitHub GitSkilled** initiative, we aim to provide a broad range of learners—from beginners to experienced developers—with the skills they need to thrive in the open-source ecosystem. This project expands access to students who are not traditionally eligible for the GitHub Student Developer Pack
 
-- Supporting Non-Traditional Learners – Unlike the Student Developer Pack, this initiative reaches learners beyond well-resourced universities—those in global bootcamps, small colleges, educational nonprofits, and alternative learning paths who often have fewer resources but just as much talent.
-- Empowering Careers in Open Source – The GitHub GitSkilled Program goes beyond education, offering professional and career development to help these developers launch successful open-source careers.
+- **Supporting Non-Traditional Learners** – Unlike the Student Developer Pack, this initiative reaches learners beyond well-resourced universities—those in global bootcamps, small colleges, educational nonprofits, and alternative learning paths who often have fewer resources but just as much talent.
+- **Empowering Careers in Open Source** – The GitHub GitSkilled Program goes beyond education, offering professional and career development to help these developers launch successful open-source careers.
 Because of this, the criteria for donations—both digital and virtual—are broader than those for the Student Developer Pack.
 
-We’d love to include your offering in this initiative and give you the opportunity to directly impact the next generation of tech talent across the globe.
+We’d love to include your offering in this initiative and give you the opportunity to directly impact the next generation of tech talent worldwide.
 
 ## Why Partner with GitHub GitSkilled?
 
@@ -41,3 +45,6 @@ GitHub GitSkilled is proud to offer the following benefits to all our Community 
 Thank you for learning about how to support our project!
 
 Please take a moment to [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfEM7HPiLaJmbigHTAkvHbDmmFxNstCWVeQ866c0rj2WfUxQQ/viewform) so we can connect and provide next steps. We look forward to working with you!
+
+# Meet Our Community Partners
+Coming soon.🚀
