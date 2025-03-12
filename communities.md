@@ -57,7 +57,7 @@ This community is about creating a safe and welcoming space for **nontraditional
 
 ## Our global impact 🚀
 GitSkilled is not specific to one city, country, or region. We are set to empower the future generation of developers globally. Our programming is built to serve all corners of the world, regardless of location. Check out the links below to learn more about our current communities:
-- [GitSkilled North America](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/all-in-north-america.md)
+- [GitSkilled North America](https://github.com/GitSkilled/About-GitSkilled/blob/main/GitSkilled-north-america.md)
 - [GitSkilled Europe](https://github.com/GitSkilled/About-GitSkilled/blob/main/gitskilled-europe.md)
 - [GitSkilled Africa](https://github.com/GitSkilled/About-GitSkilled/blob/main/gitskilled-africa.md)
 - [GitSkilled Latin America and Caribbean](https://github.com/GitSkilled/About-GitSkilled/blob/main/gitskilled-lac.md)
