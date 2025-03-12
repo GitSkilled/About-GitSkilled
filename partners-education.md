@@ -1,8 +1,7 @@
-# Education: Share curriculum & advise on future topics
+# Education: Share curriculum & advise on future topics 🧠
 
 **Partner with Us to Help Scale GitHub All In's Skilling Initiatives**
-
-The **GitHub All In** program is committed to engaging **1 million learners** globally over the next three years through our skilling initiatives. To achieve this ambitious goal, we are actively seeking partners to help us scale our efforts and extend our reach to more learners in underserved communities. By partnering with **GitHub All In**, organizations can play a pivotal role in upskilling developers and building inclusive, future-ready tech communities.
+GitSkilled is committed to working with skilling organizations to build strong, local communities that empower learners by providing tailored support and resources to help them thrive in open source. Here are some of the benefits your community of learners will gain through your partnership with GitSkilled via our GitSkilled Developer Pack.
 
 ## Why Partner with GitHub All In?
 
@@ -68,3 +67,6 @@ In order to provide for the continued success of the GitSkilled program, we are 
 Thank you for learning about how to support our project!
 
 Please take a moment to [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfEM7HPiLaJmbigHTAkvHbDmmFxNstCWVeQ866c0rj2WfUxQQ/viewform) so we can connect and provide next steps. We look forward to working with you!
+
+# Meet Our Education Partners
+Coming soon.🚀
