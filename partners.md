@@ -1,21 +1,16 @@
-# Partner with GitSkilled
+# Partner with GitSkilled 🤝
 
-## Empowering the next generation of open source talent
+**Become a partner to shape the future of open source** by providing learners with critical resources, career opportunities, and the tools they need to thrive.
 
+There are three types of partnerships available:
 
-The GitSkilled Community is dedicated to providing educational, professional development, and personal growth opportunities to underrepresented and marginalized communities seeking careers in open source and tech. Our community thrives on support from our valued partners, and this page outlines how organizations can engage with us to make a meaningful impact. There are three types of partnerships available:
-
-   - [Sponsorship](https://github.com/GitSkilled/About-GitSkilled/blob/main/partners-sponsorship.md)
-   - [Community](https://github.com/GitSkilled/About-GitSkilled/blob/main/partners-community.md)
-   - [Education](https://github.com/GitSkilled/About-GitSkilled/blob/main/partners-education.md)
-
-Become a partner to shape the future of open source by providing learners with critical resources, career opportunities, and the tools they need to thrive. In addition to supporting the GitSkilled initiative to further its mission, partners will have access to the benefits in the Partner Pack, as listed in the above documents.
-
-
-
-## Target Regions:
-
-We are particularly focused on reaching learners in **Africa**, **Europe**, **LatAm**, and **North America** as part of the **GitHub GitSkilled** initiative. These regions represent high-growth potential and areas where we can address local skills gaps while supporting long-term tech and economic development.
+   - **Sponsor: Invest in talent, empower the future** 💸\
+Support GitSkilled with a financial donation to help provide our community with professional development and technical education. Together, we can invest in the future of open source and technology. Learn more about [sponsorship here](https://github.com/GitSkilled/About-GitSkilled/blob/main/partners-sponsorship.md).
+   - **Community: In-kind donations & services** 🌐\
+   Community partners can support our community of developers by donating tools, hosting workshops, or offering mentorship to build practical open source skills. This includes access to tools and career development services. Learn more about [community here](https://github.com/GitSkilled/About-GitSkilled/blob/main/partners-community.md).
+   - **Education: Share curriculum & advise on future topics** 🧠\
+Partner with GitSkilled to bring GitHub developer learning paths to your community and co-host upskilling events like hackathons and workshops to empower your learners.
+Learn more about [education here](https://github.com/GitSkilled/About-GitSkilled/blob/main/partners-education.md).
 
 ## How You Can Get Involved:
 
