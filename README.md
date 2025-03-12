@@ -1,6 +1,10 @@
 # About-GitSkilled <img src="https://avatars.githubusercontent.com/u/189777612?s=200&v=4" width="25" height="25" />
 
-This resource collection, curated by GitHub Social Impact under the Skilling, Equity and Community pillar, supports socially conscious open source developers with curriculum, communities, partners, and educational materials.
+GitSkilled aims to lower barriers to entry and provide clear, accessible pathways for aspiring developers and contributors from underrepresented backgrounds and regions to open source.
+
+By partnering with organizations around the world, we empower individuals at every stage of their journey to contribute to open source projects, helping them develop the skills needed to drive positive social change. Our goal is to cultivate a community of socially conscious developers who create technology that benefits everyone and contributes to a world where all can thrive.
+
+We envision a future where diverse voices drive innovation and where a global community of socially conscious developers collaborate seamlessly to solve complex challenges and shape technology for the common good.
 
 ## About This Repository
 This repository supports GitSkilled's open source initiatives, creating pathways for nontraditional learners to join the GitSkilled Collective—a global community committed to inclusive participation in the digital economy.
@@ -12,7 +16,7 @@ Our Four-Point Plan:
 4. Foster community building to drive impactful contributions and help close the digital divide.
 
 
-### Primary GitHub All In Resources
+### Primary GitHub GitSkilled Resources
 
 Here's an index to some helpful resources you'll find in this repo
 
