@@ -1,6 +1,6 @@
-# Sponsorship: Invest in talent, empower the future
+# Sponsorship: Investing in talent, for a return on the future 💸
 
-The **GitHub GitSkilled** initiative is driven by the belief that everyone should have access to the skills and resources needed to succeed in the tech industry. As we work to upskill 1 million developers over the next three years, we rely on the generosity of donors, partners, and individuals who share our vision for creating inclusive, diverse, and future-ready tech communities.
+The **GitSkilled initiative** is driven by the belief that everyone should have access to the skills and resources needed to succeed in the tech industry. As we all work towards upskilling future developers, we rely on the generosity of donors, partners, and individuals who share our vision for creating socially conscious and future-ready tech communities.
 
 ## How You Can Support GitHub GitSkilled
 
@@ -11,7 +11,6 @@ Your donations will help us expand our reach, provide resources for underserved 
 - **One-Time Donations:** Make a direct contribution to support the growth of **GitHub GitSkilled** skilling programs, including educational content, workshops, and outreach initiatives.
 - **Recurring Donations:** Set up a monthly or quarterly donation to provide sustained support for the initiative, allowing us to plan for long-term growth and impact.
 - **Corporate Matching:** Many companies offer matching programs for charitable donations. Check with your employer to see if they will match your donation to **GitHub GitSkilled**.
-- **In-Kind Donations:** If your organization has resources—such as software, services, or educational tools—that could enhance **GitHub GitSkilled**, we would love to discuss ways you can contribute.
 
 ### Why Your Donation Matters:
 
@@ -21,7 +20,7 @@ Your donations will help us expand our reach, provide resources for underserved 
 
 ### How to Donate:
 
-To make a donation to **GitHub GitSkilled**, simply follow the link below to our donation platform, where you can choose your contribution amount and preferred donation frequency.
+To donate to **GitHub GitSkilled**, follow the link below to our donation platform. There, you can choose your contribution amount and preferred donation frequency.
 
 Coming soon: Donate to GitHub GitSkilled through GitHub Sponsors
 
@@ -29,3 +28,5 @@ We are deeply grateful for your support in advancing our mission to upskill the 
 
 Together, we can build a brighter future for developers everywhere.
 
+# Meet Our Sponsors
+Coming soon.🚀
