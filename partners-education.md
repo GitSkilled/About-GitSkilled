@@ -1,26 +1,25 @@
 # Education: Share curriculum & advise on future topics 🧠
 
-**Partner with Us to Help Scale GitHub All In's Skilling Initiatives**
+**Partner with Us to Help Scale GitSkilled**
 GitSkilled is committed to working with skilling organizations to build strong, local communities that empower learners by providing tailored support and resources to help them thrive in open source. Here are some of the benefits your community of learners will gain through your partnership with GitSkilled via our GitSkilled Developer Pack.
 
-## Why Partner with GitHub All In?
+## Why Partner with GitSkilled?
 
-Through the **GitHub All In** initiative, we aim to provide a broad range of learners—from beginners to experienced developers—with the skills they need to thrive in the open-source ecosystem. Partners who join us will have the opportunity to upskill their learners in key technologies such as:
+Through the **GitSkilled** initiative, we aim to provide a broad range of learners—from beginners to experienced developers—with the skills they need to thrive in the open-source ecosystem. Partners who join us will have the opportunity to upskill their learners in key technologies such as:
 
 - **GitHub Basics** – Offering foundational knowledge of GitHub, version control, and collaboration in open-source projects.
 - **GitHub Copilot** – Enabling developers to boost productivity and innovation by learning how to use GitHub Copilot effectively.
 - **Responsible AI** – Providing critical education on building and using AI technologies responsibly.
 
-Our goal is to collaborate with partners who share our passion for fostering inclusive, diverse, and sustainable developer communities. Whether you're an educational institution, nonprofit organization, or a company with a workforce development program, there are multiple ways to get involved with **GitHub All In**.
+Our goal is to collaborate with partners who share our passion for fostering inclusive, diverse, and sustainable developer communities. Whether you're an educational institution, nonprofit organization, or a company with a workforce development program, there are multiple ways to get involved with **GitSkilled**.
 
 ## Ways to Get Involved:
 
 - **Co-Create Learning Paths:** Collaborate with us to develop localized or specialized learning content tailored to the needs of your audience, whether they’re just starting out or are experienced professionals looking to deepen their expertise.
-- **Integrate Content into Your LMS:** Integrate **GitHub All In** content into your learning management system (LMS) to track learner engagement, progress, and completion, ensuring participants earn certificates for their achievements.
+- **Direct your Learners to MS Learn** By completing the GitHub Foundations course on MS Learn, your learners will be able to join our community and gain access to the GitSkilled Developer Pack.
 - **Host Skilling Events:** Partner with us to organize hackathons, workshops, or webinars focused on GitHub technologies, GitHub Copilot, and Ethical AI to enhance your learners' skills.
-- **Translation & Localization:** Help us reach global communities by translating **GitHub All In** content into additional languages or adapting it for regional needs.
 
-# Partner Pack:
+# Education Partner Pack:
 
 GitHub All In is proud to offer the following benefits to all our Education Partners:
 
@@ -52,7 +51,7 @@ GitHub All In is proud to offer the following benefits to all our Education Part
 
    - If your learners are in the process of completing any of the courses in the GitHub All In project, they will have access to a GitHub Expert to help them with questions or issues via a monthly GitHub All In Office Hours. This open format session will only be open to learners of educational partners.  
 
-# Partner Expectations
+# Education Partner Expectations
 
 In order to provide for the continued success of the GitSkilled program, we are requesting the following assistance from our Education Partners:
 
@@ -69,4 +68,4 @@ Thank you for learning about how to support our project!
 Please take a moment to [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfEM7HPiLaJmbigHTAkvHbDmmFxNstCWVeQ866c0rj2WfUxQQ/viewform) so we can connect and provide next steps. We look forward to working with you!
 
 # Meet Our Education Partners
-Coming soon.🚀
+
