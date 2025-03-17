@@ -69,3 +69,5 @@ Please take a moment to [fill out this form](https://docs.google.com/forms/d/e/1
 
 # Meet Our Education Partners
 
+<img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/GK-Primary-12-01-21.png" width=300 alt="geekulcha logo">
+
