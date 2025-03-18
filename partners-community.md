@@ -3,12 +3,8 @@
 # Community: In-kind donations & services 🌐
 
 **Support Open Source Learners - contribute to our GitSkilled Developer Pack** through in-kind donations, workshops, or mentorship, equipping learners with real-world open-source experience. Become a Community Partner and help our GitSkilled community of learners develop the skills needed to become successful tech innovators and leaders.
-## Why It Matters
-- **Supporting Socially Conscious Developers** – We empower talented individuals - both technical and nontechnical -  who lack access to well-resourced institutions.
-- **Building Open Source Careers** – Beyond education, we offer career development to help developers launch successful open-source careers.
 
-
-## About the GitSkilled Community Developer Pack
+## Donate to the GitSkilled Developer Pack
 
 Through the **GitHub GitSkilled** initiative, we aim to provide a broad range of learners—from beginners to experienced developers—with the skills they need to thrive in the open-source ecosystem. 
 
