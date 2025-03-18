@@ -7,7 +7,7 @@ All In North America is dedicated to connecting tech professionals from underrep
 1. Start by taking the [GitHub Foundations learning path](https://learn.microsoft.com/en-us/collections/w1nebonx2g64nw) from GitHub All In
 2. Fill our [Alumni Community Form](https://docs.google.com/forms/d/e/1FAIpQLSfbMy-v4pEDjBdOhwsSuC2DXeD33wNT8KvfhPLSjJuZcWCImg/viewform)
 3. And you are All In!
-   
+
 # Contact Information
 
-If you have any questions or would love to partner, [reach out to us](info@allinopensource.org).
+If you have any questions or would love to partner, [reach out to us](mailto:info@allinopensource.org).

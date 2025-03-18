@@ -11,7 +11,7 @@ All In Latin America & the Caribbean is a dedicated community of tech newcomers,
 3. And you are _All In!_
 
 ### Contact Information
-If you have any questions or would love to partner, [reach out to us](info@allinopensource.org).
+If you have any questions or would love to partner, [reach out to us](mailto:info@allinopensource.org).
 
 ## Spanish
 ¡Bienvenides, welcome, bem-vindos!
@@ -40,7 +40,7 @@ A All In na América Latina e no Caribe é uma comunidade dedicada a fortalecer 
 3. E você está _All In!_
 
 ### Informações de contato
-Se tiver alguma dúvida ou quiser colaborar, [entre em contato conosco](info@allinopensource.org).
+Se tiver alguma dúvida ou quiser colaborar, [entre em contato conosco](mailto:info@allinopensource.org).
 
 ### Próximos eventos
 [Participe de nossos eventos](https://github.com/All-In-Open-Source-Project/All-In-Lac/blob/46e73b761e00578d2caefac6a321c7ba2e64d1c2/README.md)
