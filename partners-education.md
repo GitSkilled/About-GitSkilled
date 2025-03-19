@@ -65,7 +65,8 @@ In order to provide for the continued success of the GitSkilled program, we are 
 
 Thank you for learning about how to support our project!
 
-Please take a moment to [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfEM7HPiLaJmbigHTAkvHbDmmFxNstCWVeQ866c0rj2WfUxQQ/viewform) so we can connect and provide next steps. We look forward to working with you!
+- If you would like to connect with us to learn more, please take a moment to [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfEM7HPiLaJmbigHTAkvHbDmmFxNstCWVeQ866c0rj2WfUxQQ/viewform). We will be contacting you shortly to answer any questions you might have.
+- If you are ready to move forward with an education partnership, please fill out our [Onboarding Form](https://docs.google.com/forms/d/e/1FAIpQLSfEM7HPiLaJmbigHTAkvHbDmmFxNstCWVeQ866c0rj2WfUxQQ/viewform), so we can connect and provide next steps. We look forward to working with you!
 
 # Meet Our Education Partners
 
