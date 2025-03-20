@@ -70,6 +70,11 @@ Thank you for learning about how to support our project!
 
 # Meet Our Education Partners
 
-<img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/GK-Primary-12-01-21.png" width=300 alt="geekulcha logo">
-<img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/SCA%20Logo%20-%20White%20background.png" width=100 alt="she code africa logo">
+<table>
+  <tr>
+    <td><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/GK-Primary-12-01-21.png" width=300 alt="geekulcha logo"></td>
+    <td><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/Journotech%20LOGO.jpg" width=300 alt=journotech logo"></td>
+    <td><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/SCA%20Logo%20-%20White%20background.png" width=200 alt="she code africa logo"></td>
+  </tr>
+</table>
 
