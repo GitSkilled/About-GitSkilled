@@ -10,5 +10,4 @@ All In Africa is designed to empower Africans and bridge the diversity gap of de
 
 # Contact Information
 
-If you have any questions or would love to partner, [reach out to us](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/info@allinopensource.org).
-
+If you have any questions or would love to partner, [reach out to us](mailto:info@allinopensource.org).
