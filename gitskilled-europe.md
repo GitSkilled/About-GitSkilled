@@ -10,5 +10,4 @@ All In Europe is dedicated to connecting tech professionals from underrepresente
    
 # Contact Information
 
-If you have any questions or would love to partner, [reach out to us](info@allinopensource.org).
-
+If you have any questions or would love to partner, [reach out to us](mailto:info@allinopensource.org).
