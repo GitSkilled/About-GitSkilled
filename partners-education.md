@@ -21,7 +21,7 @@ Our goal is to collaborate with partners who share our passion for fostering inc
 
 # Education Partner Pack:
 
-GitHub All In is proud to offer the following benefits to all our Education Partners:
+GitHub GitSkilled is proud to offer the following benefits to all our Education Partners:
 
 1. **Free Upgrade to a GitHub Team Account**
 
@@ -29,19 +29,19 @@ GitHub All In is proud to offer the following benefits to all our Education Part
 
 2. **Access to a Global Community of Educators**
 
- - You will be granted access to a private repository in the GitHub All In organization, where you can connect with other educators and have access to resources available only to you.
+ - You will be granted access to a private repository in the GitHub GitSkilled organization, where you can connect with other educators and have access to resources available only to you.
 
 3. **Promotion for your organization:** 
  
-   - Your logo will be displayed on the [GitHub All In organization](https://github.com/All-In-Open-Source-Project)
-   - Your organization will be featured as a GitHub All In Supporter in a social media or blog post
-   - Our partnership will be announced to the growing All In Communities across all regions
-   - We will share your upcoming relevant news with our growing All In Communities via our newsletters
+   - Your logo will be displayed below and on the [GitHub GitSkilled organization](https://github.com/GitSkilled) repos
+   - Your organization will be featured as a GitHub GitSkilled Supporter in a social media or blog post
+   - Our partnership will be announced to the growing GitSkilled Communities across all regions
+   - We will share your upcoming relevant news with our growing GitSkilled Communities via our newsletters
 
 4. **Workshop Engagement:**
 
-   - You will be able to host relevant and appropriate educational workshops for our All In Communities
-   - You will be able to host a "Meet and Greet" networking event for our All In Communities
+   - You will be able to host relevant and appropriate educational workshops for our GitSkilled Communities
+   - You will be able to host a "Meet and Greet" networking event for our GitSkilled Communities
 
 5. **Visibility in For Good First Issue:**
  
@@ -49,7 +49,7 @@ GitHub All In is proud to offer the following benefits to all our Education Part
 
 6. **Access to GitHub Experts:**
 
-   - If your learners are in the process of completing any of the courses in the GitHub All In project, they will have access to a GitHub Expert to help them with questions or issues via a monthly GitHub All In Office Hours. This open format session will only be open to learners of educational partners.  
+   - If your learners are in the process of completing any of the courses in the GitHub GitSkilled project, they will have access to a GitHub Expert to help them with questions or issues via a monthly GitHub GitSkilled Office Hours. This open format session will only be open to learners of educational partners.  
 
 # Education Partner Expectations
 
