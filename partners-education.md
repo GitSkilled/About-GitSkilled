@@ -73,18 +73,14 @@ Thank you for learning about how to support our project!
 <table>
   <tr>
     <td><a href="https://geekulcha.dev/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/GK-Primary-12-01-21.png" width=300 alt="geekulcha logo"></a></td>
-    <td><a href="https://journotech.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/Journotech%20LOGO.jpg" width=300 alt="journotech logo"></a></td>
     <td><a href="https://shecodeafrica.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/SCA%20Logo%20-%20White%20background.png" width=200 alt="she code africa logo"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://createherfest.com"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/CreateHER%20Fest%20-%20Horizontal-Black%20w%20Color.png" width=300 alt="createherfest logo"></a></td>
-    <td><a href="https://ananindeua.ifpa.edu.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/IFPA%20campus%20ananindeua.png" width=300 alt="federal university of para logo"></a></td>
+     <td><a href="https://ananindeua.ifpa.edu.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/IFPA%20campus%20ananindeua.png" width=300 alt="federal university of para logo"></a></td>
     <td><a href="https://ourtdev.org"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/ORIGINAL%20TDEV%20LOGO_No%20Bg.PNG" width=300 alt="TDev Logo"></a></td>
   </tr>
   <tr>
     <td><a href="https://womakerscode.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/versao%20oficial.png" width=300 alt="womakers code logo"></a></td>
     <td><a href="https://angolaosc.org"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/logo-4x.png" width=200 alt="angola open source logo"></a></td>
-    <td></td>
+    <td><a href="https://hyperiondev.com/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/svg_devcareer.svg" width=200 alt="dev Career logo"></a></td>
   </tr>
   
 </table>
