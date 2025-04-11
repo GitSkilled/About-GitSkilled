@@ -75,13 +75,14 @@ Thank you for learning about how to support our project!
     <td><a href="https://geekulcha.dev/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/GK-Primary-12-01-21.png" width=300 alt="geekulcha logo"></a></td>
     <td><a href="https://shecodeafrica.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/SCA%20Logo%20-%20White%20background.png" width=200 alt="she code africa logo"></a></td>
      <td><a href="https://ananindeua.ifpa.edu.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/IFPA%20campus%20ananindeua.png" width=300 alt="federal university of para logo"></a></td>
-    <td><a href="https://ourtdev.org"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/ORIGINAL%20TDEV%20LOGO_No%20Bg.PNG" width=300 alt="TDev Logo"></a></td>
+     <td><a href="https://alafialab.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/principal_horizontal%20-%20Copia.png" alt="alafia lab logo" width=200></a></td>
   </tr>
   <tr>
     <td><a href="https://womakerscode.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/versao%20oficial.png" width=300 alt="womakers code logo"></a></td>
-    <td><a href="https://angolaosc.org"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/logo-4x.png" width=200 alt="angola open source logo"></a></td>
-    <td><a href="https://hyperiondev.com/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/svg_devcareer.svg" width=200 alt="dev Career logo"></a></td>
+    <td><a href="https://devcareer.io/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/svg_devcareer.svg" width=200 alt="dev Career logo"></a></td>
     <td><a href="https://pwaniteknowgalz.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/ptg-lg.png" alt="Pwani teknowgalz logo"></a></td>
+    <td><a href="https://www.dio.me/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/diome.png" width=200 alt="dio.me logo"></a></td>
+
   </tr>
     <tr>
     <td><a href="https://mujeresentecnologia.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/%20LogoMeT.png" width=300 alt="MeT logo"></a></td>
@@ -92,8 +93,8 @@ Thank you for learning about how to support our project!
      <tr>
     <td><a href="http://escueladedatos.online/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/SCODA_ES_HORIZONTAL_BLUE.png" width=300 alt="escuela de datos logo"></a></td>
     <td><a href="https://unicamp.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/Logo_Unicamp__0.jpg" width=200 alt="unicamp logo"></a></td>
-    <td><a href="https://www.dio.me/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/diome.png" width=200 alt="dio.me logo"></a></td>
-    <td><a href="https://alafialab.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/principal_horizontal%20-%20Copia.png" alt="alafia lab logo" width=200></a></td>
+    
+    
   </tr>
 </table>
 
