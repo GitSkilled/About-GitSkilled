@@ -1,4 +1,4 @@
-# All-In-Lac
+# GitSkilled Latin America & the Caribbeab [LAC]
 
 ## English 
 Welcome, bienvenides, bem-vindos!
