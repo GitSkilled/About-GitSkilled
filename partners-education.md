@@ -97,9 +97,9 @@ Thank you for learning about how to support our project!
   </tr>
   <tr>
     <td><a href="https://ok.org.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/okr-logo-vertical.svg" width=300 alt="open knowledge brasil logo"></a></td>
+    <td><a href="http://meninasdageo.com.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/logoMG.png" width=300 alt="meninas da geo logo"></a></td>
 
   </tr>
  
  </table>    
-    
 
