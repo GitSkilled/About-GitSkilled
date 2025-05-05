@@ -82,22 +82,20 @@ Thank you for learning about how to support our project!
     <td><a href="https://devcareer.io/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/svg_devcareer.svg" width=200 alt="dev Career logo"></a></td>
     <td><a href="https://pwaniteknowgalz.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/ptg-lg.png" alt="Pwani teknowgalz logo"></a></td>
     <td><a href="https://www.dio.me/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/diome.png" width=200 alt="dio.me logo"></a></td>
-
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://mujeresentecnologia.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/%20LogoMeT.png" width=300 alt="MeT logo"></a></td>
     <td><a href="https://surcooaxaca.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/surco.png" width=200 alt="surco logo"></a></td>
     <td><a href="https://codeandomexico.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/logo-cmx.svg" width=200 alt="codeando mexico logo"></a></td>
     <td><a href="https://www.barrilete.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/barrilette.png" alt="barrilette logo"></a></td>
   </tr>
-     <tr>
+  <tr>
     <td><a href="http://escueladedatos.online/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/SCODA_ES_HORIZONTAL_BLUE.png" width=300 alt="escuela de datos logo"></a></td>
     <td><a href="https://unicamp.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/Logo_Unicamp__0.jpg" width=200 alt="unicamp logo"></a></td>
     <td><a href="https://hyperiondev.com"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/HD%20logo%202.png" width=200 alt="hyperion dev logo"></a></td>
-     </tr>
+    <td><a href="https://codatecs.unr"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/logo-Codatecs.png" width=300 alt="codatecs logo"></a></td>
+  </tr>
+ 
  </table>    
     
-    
-  </tr>
-</table>
 
