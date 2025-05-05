@@ -9,7 +9,7 @@ Explore the learning paths available through GitSkilled and kickstart your journ
 We offer a variety of learning paths to support developers at all levels. Our current curriculum includes:
 
 - [**GitHub Foundations**](https://learn.microsoft.com/en-us/collections/w1nebonx2g64nw) – A foundational learning path covering GitHub essentials, version control, and how to get started with open-source contributions.
-- [**GitHub Copilot Fundamentals**](https://learn.microsoft.com/en-us/training/paths/copilot/) – A deep dive into how to use GitHub Copilot to boost productivity and innovation.
+- [**GitHub Copilot Fundamentals**](https://learn.microsoft.com/en-us/collections/1kw6u0qjr1e8qr) – A deep dive into how to use GitHub Copilot to boost productivity and innovation.
 
 ## Collaborate with Us to Empower Socially Conscious Developers 🤝🏽
 Are you passionate about creating or sharing content to support the next generation of developers? Visit our [Partners](https://github.com/All-In-Open-Source-Project/About-All-In/blob/main/partners.md) page or [connect with our team](mailto:info@allinopensource.org) to get involved and make an impact!
