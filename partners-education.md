@@ -93,7 +93,11 @@ Thank you for learning about how to support our project!
     <td><a href="http://escueladedatos.online/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/SCODA_ES_HORIZONTAL_BLUE.png" width=300 alt="escuela de datos logo"></a></td>
     <td><a href="https://unicamp.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/Logo_Unicamp__0.jpg" width=200 alt="unicamp logo"></a></td>
     <td><a href="https://hyperiondev.com"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/HD%20logo%202.png" width=200 alt="hyperion dev logo"></a></td>
-    <td><a href="https://codatecs.unr"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/logo-Codatecs.png" width=300 alt="codatecs logo"></a></td>
+    <td><a href="https://codatecs.unr"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/logo-Codatecs.png" width=300 alt="codatecs logo"></a></td>  
+  </tr>
+  <tr>
+    <td><a href="https://ok.org.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/okr-logo-vertical.svg" width=300 alt="open knowledge brasil logo"></a></td>
+
   </tr>
  
  </table>    
