@@ -69,3 +69,37 @@ Para garantizar el éxito continuo del programa GitSkilled, solicitamos la sigui
 - Si deseas conectarte con nuestro equipo para obtener más información, por favor [completa este formulario](https://docs.google.com/forms/d/e/1FAIpQLSfEM7HPiLaJmbigHTAkvHbDmmFxNstCWVeQ866c0rj2WfUxQQ/viewform). Nos pondremos en contacto contigo muy pronto para responder cualquier duda.
 
 - Si quisieras avanzar con una alianza educativa, por favor completa nuestro [Formulario de Registro](https://docs.google.com/forms/d/1gWqp9RG_-rxUgPwZdY-IlbtqQy9MITkqHMJ5NrQjqkY/viewform?edit_requested=true)) para conectarnos y proporcionarte los siguientes pasos. ¡Esperamos trabajar contigo!
+
+# Conoce a nuestros socios educativos
+- <table>
+  <tr>
+    <td><a href="https://geekulcha.dev/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/GK-Primary-12-01-21.png" width=300 alt="geekulcha logo"></a></td>
+    <td><a href="https://shecodeafrica.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/SCA%20Logo%20-%20White%20background.png" width=200 alt="she code africa logo"></a></td>
+     <td><a href="https://ananindeua.ifpa.edu.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/IFPA%20campus%20ananindeua.png" width=300 alt="federal university of para logo"></a></td>
+     <td><a href="https://alafialab.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/principal_horizontal%20-%20Copia.png" alt="alafia lab logo" width=200></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://womakerscode.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/versao%20oficial.png" width=300 alt="womakers code logo"></a></td>
+    <td><a href="https://devcareer.io/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/svg_devcareer.svg" width=200 alt="dev Career logo"></a></td>
+    <td><a href="https://pwaniteknowgalz.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/ptg-lg.png" alt="Pwani teknowgalz logo"></a></td>
+    <td><a href="https://www.dio.me/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/diome.png" width=200 alt="dio.me logo"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://mujeresentecnologia.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/%20LogoMeT.png" width=300 alt="MeT logo"></a></td>
+    <td><a href="https://surcooaxaca.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/surco.png" width=200 alt="surco logo"></a></td>
+    <td><a href="https://codeandomexico.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/logo-cmx.svg" width=200 alt="codeando mexico logo"></a></td>
+    <td><a href="https://www.barrilete.org/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/barrilette.png" alt="barrilette logo"></a></td>
+  </tr>
+  <tr>
+    <td><a href="http://escueladedatos.online/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/SCODA_ES_HORIZONTAL_BLUE.png" width=300 alt="escuela de datos logo"></a></td>
+    <td><a href="https://unicamp.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/Logo_Unicamp__0.jpg" width=200 alt="unicamp logo"></a></td>
+    <td><a href="https://hyperiondev.com"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/HD%20logo%202.png" width=200 alt="hyperion dev logo"></a></td>
+    <td><a href="https://codatecs.unr"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/logo-Codatecs.png" width=300 alt="codatecs logo"></a></td>  
+  </tr>
+  <tr>
+    <td><a href="https://ok.org.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/okr-logo-vertical.svg" width=300 alt="open knowledge brasil logo"></a></td>
+    <td><a href="http://meninasdageo.com.br/"><img src="https://github.com/GitSkilled/About-GitSkilled/blob/main/logos/logoMG.png" width=300 alt="meninas da geo logo"></a></td>
+
+  </tr>
+ 
+ </table>    
