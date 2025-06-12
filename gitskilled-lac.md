@@ -16,7 +16,7 @@ If you have any questions or would love to partner, [reach out to us](mailto:inf
 ## Spanish
 ¡Bienvenides, welcome, bem-vindos!
 
-GitSkilled en América Latina y el Caribe es una comunidad dedicada a fortalecer las conexciones entre principiantes, profesionales y entusiastas en tecnología en la región de América Latina. Desde GitSkillled nos comprometemos a proporcionar un ambiente de aprendizaje y de apoyo donde la innovación, el desarrollo profesional, y la multiplicidad de experiencias puedan fusionarse. 
+GitSkilled en América Latina y el Caribe es una comunidad dedicada a fortalecer las conexiones entre principiantes, profesionales y entusiastas en tecnología en la región de América Latina. Desde GitSkilled nos comprometemos a proporcionar un ambiente de aprendizaje y de apoyo donde la innovación, el desarrollo profesional, y la multiplicidad de experiencias puedan fusionarse. 
 
 ### Cómo unirse GitSkilled en América Latina y el Caribe
 1. Comienza tomando la ruta de aprendizaje de Fundamentos de GitHub.
